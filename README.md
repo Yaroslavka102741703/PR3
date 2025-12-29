@@ -198,6 +198,13 @@ nano info.txt
 <img width="347" height="184" alt="image" src="https://github.com/user-attachments/assets/380794a8-8029-48b4-bd0e-1ae1ab8ceebd" />
 
 
+```bash
+git add info.txt
+git commit -m "Merge bugfix/TASK-3321 into main with conflict resolution"
+git push origin main
+```
+
+
 
 
 
